@@ -8,7 +8,7 @@
 ⚡️ Fully Responsive\
 ⚡️ Valid HTML5 & CSS3\
 ⚡️ Built on React Framework\
-⚡️ Primarily written on JSX
+⚡️ Primarily written on JSX\
 ⚡️ Uses Sass
 
 To view the demo: **[click here](https://portfolio-tarunm.netlify.app/)**
