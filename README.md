@@ -9,7 +9,7 @@
 ⚡️ Valid HTML5 & CSS3\
 ⚡️ Built on React Framework\
 ⚡️ Primarily written on JSX\
-⚡️ Uses Sass
+⚡️ Styled with Scss
 
 To view the demo: **[click here](https://portfolio-tarunm.netlify.app/)**
 
